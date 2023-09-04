@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("./images/Outerspace.jpg");
+    background-image: url("..//images/Outerspace.jpg");
     background-size: 100%;
     background-position: 50%;
     color: hsl(0, 0%, 100%);
